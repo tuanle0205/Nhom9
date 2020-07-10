@@ -1,0 +1,11 @@
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\bin\Debug\UserSettingsDemo.exe.config
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\bin\Debug\UserSettingsDemo.exe
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\bin\Debug\UserSettingsDemo.pdb
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\UserSettingsDemo.Properties.Resources.resources
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\UserSettingsDemo.exe
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\UserSettingsDemo.pdb
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\UserSettingsDemo.UserControl1.resources
+C:\Users\Bao Tran\source\repos\WindowsFormsApp1\obj\Debug\UserSettingsDemo.UserControl2.resources
